@@ -3,7 +3,7 @@ node_modules
 __pycache__
 .ipynb_checkpoints
 results
-*/ .idea
+*/.idea
 */node_modules
 */__pycache__
 */.ipynb_checkpoints
