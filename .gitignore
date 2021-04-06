@@ -1,7 +1,9 @@
+ .idea
 node_modules
 __pycache__
 .ipynb_checkpoints
 results
+*/ .idea
 */node_modules
 */__pycache__
 */.ipynb_checkpoints
