@@ -23,7 +23,7 @@ export default function () {
 
     // Verify response
     check(res, {
-        'status is 200': (r) => r.status === 200,
+        'status is 200': (r) => r.status = 200,
         'is authenticated': (r) => r.json().authenticated === true,
         'is correct user': (r) => r.json().user === username,
     })
